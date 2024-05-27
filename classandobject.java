@@ -9,6 +9,6 @@ class classandobject
 }
 class cmain
 {
-    int roll_no=1;
+    int roll_no=2;
     int id=2;
 }
