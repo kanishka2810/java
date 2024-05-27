@@ -12,5 +12,3 @@ class cmain
     int roll_no=1;
     int id=2;
 }
-
-}
