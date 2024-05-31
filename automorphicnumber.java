@@ -24,5 +24,6 @@ public class automorphicnumber {
         }
         if(flag==1)
             System.out.println(" Automorphic");
+        sc.close();
     }
 }
