@@ -21,11 +21,8 @@ public class automorphicnumber {
             }
             num=num/10;
             square=square/10;
-            //flag=1;
         }
         if(flag==1)
             System.out.println(" Automorphic");
-        //else
-          //  System.out.println("automorphic");
     }
 }
