@@ -27,4 +27,3 @@ public class majoritielement {
             System.out.println("No Element");
     }
 }
-
