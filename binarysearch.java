@@ -23,7 +23,7 @@ public class binarysearch {
 	{
 	    binarysearch ob = new binarysearch();
 
-		int a[] = { 2,4,5,33,35,67,89,100,335,354};
+		int a[] = {2,4,5,33,35,67,89,100,335,354};
 		int n = a.length;
 		int x = 908;
 		int result = ob.bsearch(a, 0, n - 1, x);
