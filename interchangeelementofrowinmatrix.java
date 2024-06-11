@@ -5,7 +5,7 @@ public class interchangeelementofrowinmatrix {
 						{ 1,1,1,0 },
 						{ 0,6,0,2},
 						{ 0,9,0,3 } };
-		System.out.println("Input matrix is as follows : ");
+		System.out.println("Input matrix is: ");
 		for (int j = 0; j < a.length; j++) 
 		{
 			for (int k = 0; k < a[0].length; k++)
@@ -21,7 +21,7 @@ public class interchangeelementofrowinmatrix {
 			a[1][j] = a[res - 2][j];
 			a[res - 2][j] = temp;
 		}	
-		System.out.println("Output matrix is as follows : ");
+		System.out.println("Output matrix is: ");
 		for (int j = 0; j < a.length; j++) 
 		{
 			for (int k = 0; k < a[0].length; k++)
