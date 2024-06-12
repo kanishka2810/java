@@ -9,11 +9,8 @@ public class Minimizethemaxdiffebwtheheight
 
 		Arrays.sort(a);
 		int ans = a[n - 1] - a[0];
-
-		int min, max;
-		// min = a[0];
-		//max = a[n - 1];
-
+        
+        int min, max;
 		for (int i = 1; i < n; i++) 
         {
 			if (a[i] - k < 0)
